@@ -9,7 +9,7 @@ function login(admin , password){
                  console.log("Invalid Credentials   ")
                  reject();
              }
-         }, 2000)
+         }, 4000)
     })
 }
 
